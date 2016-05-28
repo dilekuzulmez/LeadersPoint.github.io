@@ -1,0 +1,28 @@
+.navbar-custom {
+    background-color:#0099FF;
+    border-color: rgba(20, 173, 124, 1);
+    border-radius:0;
+    height:100px;
+}
+.navbar{
+    padding:5px;
+}
+.navbar-brand{
+    position: relative;
+
+
+}
+
+.color-bg-one{
+    background-color: #0099FF;
+}
+
+
+section{
+    padding-top: 30px;
+}
+#footer{
+    width: 300px;
+    display: block;
+    float: right;
+}
